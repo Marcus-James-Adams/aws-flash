@@ -1,0 +1,18 @@
+ Volume in drive C has no label.
+ Volume Serial Number is A209-6A5A
+
+ Directory of C:\work\repo\user\Marcus-James-Adams\aws-flash
+
+08/10/2019  16:46    <DIR>          .
+08/10/2019  16:46    <DIR>          ..
+08/10/2019  12:59               117 .gitignore
+08/10/2019  12:59             2,299 convert_raw.py
+08/10/2019  12:59             2,213 exam.py
+08/10/2019  16:46                 0 fred.txt
+08/10/2019  12:59            68,683 questions.json
+08/10/2019  12:59            59,757 raw.txt
+08/10/2019  12:59               964 README.md
+08/10/2019  12:59               964 READMEold.md
+08/10/2019  12:59             1,438 Vagrantfile
+               9 File(s)        136,435 bytes
+               2 Dir(s)  353,407,811,584 bytes free
